@@ -1,1 +1,1 @@
-MTQwOTkzOTU0MTIyOTQzNjk5OA.GC6ErJ.iqLCWG-wd0L5QWPWOWsvRA30VqZpDNFwoxq3Fs
+# Input token raw. No speech marks, just the token.
