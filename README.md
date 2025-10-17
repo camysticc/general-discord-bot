@@ -4,6 +4,13 @@ A feature-rich Discord bot designed for the DevDen community, providing tools fo
 
 ---
 
+**Installation:**
+
+1. `git clone https://github.com/camysticc/general-discord-bot.git`
+2. `bash startup.sh` or click `startup.sh`
+3. Ready to go!
+
+
 ## 🚀 Key Features
 
 * **Project Tracking:** Create and manage community projects with unique IDs and status updates.
@@ -17,7 +24,7 @@ A feature-rich Discord bot designed for the DevDen community, providing tools fo
 
 ## ⚙️ Command List (Slash Commands)
 
-Most staff/admin commands are restricted to users with the configured staff role (**Role ID: `1409970906981339317`**) or Administrator permissions.
+Most staff/admin commands are restricted to users with the configured staff role you set!
 
 ### 👥 General & Utility Commands
 
