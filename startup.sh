@@ -6,7 +6,7 @@
 # IMPORTANT: Replace YOUR_BOT_TOKEN_HERE with your actual bot token.
 # You can get this from the Discord Developer Portal.
 
-export DISCORD_TOKEN="MTQwOTkzOTU0MTIyOTQzNjk5OA.GC6ErJ.iqLCWG-wd0L5QWPWOWsvRA30VqZpDNFwoxq3Fs"
+export DISCORD_TOKEN="123456789assfghjklqwertyuiopzcvbnm"
 
 # Check if the token was set
 if [ -z "$DISCORD_TOKEN" ]; then
