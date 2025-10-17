@@ -1,6 +1,6 @@
-# DevDen Discord Bot
+# Freelancing Discord Bot
 
-A feature-rich Discord bot designed for the DevDen community, providing tools for user engagement, project management, and advanced moderation. Built using `discord.py` with modern application commands (slash commands).
+A feature-rich Discord bot designed for freelancing servers, providing tools for user engagement, project management, and advanced moderation. Built using `discord.py` with modern application commands (slash commands).
 
 ---
 
